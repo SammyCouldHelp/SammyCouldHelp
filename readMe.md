@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://github.com/SammyCouldHelp"><img src="https://img.shields.io/badge/status-updating-yellow.svg"></a>
-    <a href="https://github.com/SammyCouldHelp?tab=repositories"><img src="https://img.shields.io/github/contributors/sensamie1/sensamie1?color=blueviolet"></a>
-    <a href="https://github.com/SammyCouldHelp"><img src="https://img.shields.io/github/stars/sensamie1.svg?color=blue&logo=github"></a>
-    <img src="https://komarev.com/ghpvc/?username=SammyCouldHelp&color=green&style=for-the-badge" alt="profile views">
+    <a href="https://github.com/SammyCouldHelp?tab=repositories"><img src="https://img.shields.io/github/contributors/SammyCouldHelp/SammyCouldhelp?color=blueviolet"></a>
+    <a href="https://github.com/SammyCouldHelp"><img src="https://img.shields.io/github/stars/SammyCouldHelp.svg?color=blue&logo=github"></a>
+    <img src="https://komarev.com/ghpvc/?username=SammyCouldHelp&color=green&style=plastic" alt="profile views">
 </p>
 
 <h1 align="left">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
