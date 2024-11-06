@@ -14,7 +14,7 @@
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/Him </br>
-- 💡 Fun fact: I studied at Alx Africa,3MTT Nigeria, Cousera and Free Code Camp, class of 2024.</br>
+- 💡 Fun fact: I studied at Alx Africa, 3MTT Nigeria, Cousera and Free Code Camp, class of 2024.</br>
 - 🌱 I learnt React, Next and Node JS in the Front-end Engineering track.</br>
 - 😊 I’m looking to help with open source projects, hackathons, internships, and entry-level opportunities.</br>
 - 💼 Job interests: Software Engineer, Front-end Engineer (Intern or Junior level).</br>
