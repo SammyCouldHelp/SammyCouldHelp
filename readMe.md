@@ -9,7 +9,7 @@
 <h3>Welcome to my Github Profile</h3>
 <p>My name is Samuel Dibiah, I'm a Software Engineer✨</p>
 
-[![Alx Certificate](https://intranet.alxswe.com/certificates/yepRYh7Z9s) [![Linkedin Badge](https://img.shields.io/badge/-sensamie_-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sammycouldhelp?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/sammycouldhelp?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))]([www.linkedin.com/in/sammycouldhelp](https://www.linkedin.com/in/sammycouldhelp?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-SAMUELDIBIAH_-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sammycouldhelp?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/sammycouldhelp?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))]([www.linkedin.com/in/sammycouldhelp](https://www.linkedin.com/in/sammycouldhelp?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) -->
 
 **Here's a quick summary about me**:
 
