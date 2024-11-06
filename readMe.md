@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/SammyCouldHelp"><img src="https://img.shields.io/badge/status-updating-yellow.svg"></a>
     <a href="https://github.com/SammyCouldHelp?tab=repositories"><img src="https://img.shields.io/github/contributors/SammyCouldHelp/SammyCouldhelp?color=blueviolet"></a>
-    <a href="https://github.com/SammyCouldHelp"><img src="https://img.shields.io/github/stars/SammyCouldHelp.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/SammyCouldHelp?tab=stars"><img src="https://img.shields.io/github/stars/SammyCouldHelp.svg?color=blue&logo=github"></a>
     <img src="https://komarev.com/ghpvc/?username=SammyCouldHelp&color=green&style=plastic" alt="profile views">
 </p>
 
